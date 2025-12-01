@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, We're FIRST Tech Challenge's Team 6198 from the BHS Robotics Program 👋
 
-<!--
-**ftc6198-bhs/ftc6198-bhs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**We look for aspiring engineers, developers, and public relation officers (money managers & marketers)**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏆 Top Skills
+
+![](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/Markdown-242424?logo=markdown&logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+
+---
+
+## 🌱 Career Goals
+- Build Meaningful Relationship
+- Obtain Experience
+- Inspire Many
+- Win
+
+---
+
+## 💡 Philosophy
+> “Endure Today. Freedom Tommorow.”
+
+---
+
+## 😄 About Us:
+- Associated Industries: Engineering, Computer Science, & Public Relations
+- Achievements: N/A
+
+---
+
+## 📬 Connect With Me
+
+[![](https://img.shields.io/badge/Email-8B89CC?logo=protonmail&logoColor=white&style=for-the-badge)](mailto:bhs.ftc6198@proton.me)
+[![](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/ftc6198_bhs?igsh=MXg0MngyNGh6Z2hkNg==)
+
+---
