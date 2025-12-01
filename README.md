@@ -4,11 +4,13 @@
 
 ---
 
-## 🏆 Top Skills
+## 🏆 TechStack:
 
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/Markdown-242424?logo=markdown&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/java-E34F26?logo=coffeescript&logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/css-663399?logo=css&logoColor=white&style=for-the-badge)
 
 ---
 
